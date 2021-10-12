@@ -1,2 +1,2 @@
 # Team-Page-for-COPS
-![alt text](http://url/to/teams1.png)
+![alt text](https://github.com/AVoid1/Team-Page-for-COPS/blob/main/teams1.png)
